@@ -1,0 +1,27 @@
+.logoInstgrm {
+    height: 50px;
+    width: 120px;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+    
+    height: 40px;
+    margin: 10px 10px 5px 10px;
+}
+
+.header-container .buttonsNotify {
+    display: flex;
+    /* justify-content: space-between; */
+    /* border: 1px solid; */
+    width: 70px;
+    height: 40px;
+    /* align-items: center; */
+
+}
+
+.header-container .buttonsNotify a {padding: 7px}

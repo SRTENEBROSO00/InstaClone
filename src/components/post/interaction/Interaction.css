@@ -1,0 +1,26 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.interaction-main-container, .seeLike{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8px;
+}
+
+.interaction-main-container .button-interaction {
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.seeLike a {
+    text-decoration: dashed;
+    color: white;
+    font-family: system-ui;
+    font-size: small;
+    padding-bottom: 5px;
+
+}

@@ -1,0 +1,29 @@
+.mediaScreen {
+  width: 100vw;
+  position: relative;
+}
+
+.mediaScreen .media {
+    width: 100%;
+    height: 100%;
+}
+
+.mediaScreen .redirecProfile {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+    display: none;
+}
+
+.audio {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+}
+

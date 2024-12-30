@@ -1,0 +1,10 @@
+.time {padding: 0 8px;}
+
+.time a {
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-family: system-ui;
+    color: grey;
+
+}

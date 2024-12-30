@@ -1,0 +1,9 @@
+.container-main-post {
+    margin-bottom: 10px;
+    
+
+}
+
+.container-main-post::-webkit-scrollbar{
+    display: none;
+}

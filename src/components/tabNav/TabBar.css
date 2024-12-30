@@ -1,0 +1,23 @@
+.tabBar {
+    background-color: #000000;
+    display: flex;
+    justify-content: space-around;
+    height: 64px;
+    align-items: center;
+    border-top: 1px groove rgb(46, 46, 46);
+    position: absolute;
+    position:sticky;
+    bottom: 0;
+    width: 100vw;
+}
+
+.tabBar img{
+    height: 26px;
+    width: 26px;
+    
+}
+.tabBar .profile {
+    border-radius: 50%;
+    object-fit: cover;
+
+}

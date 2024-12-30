@@ -1,0 +1,30 @@
+.container-user-profile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    margin: 0 5px;
+}
+
+.container-user-profile img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.imgAndUser {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+
+.imgAndUser .nameOfUser {
+    padding: 5px;
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+}
+
+.optionPost img {
+    width: 10px;
+}

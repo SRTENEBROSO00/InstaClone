@@ -1,0 +1,11 @@
+.comments {
+    padding: 0 8px;
+    font-family: system-ui;
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+}
+.comments a {
+    color: grey;
+    text-decoration: none;
+}

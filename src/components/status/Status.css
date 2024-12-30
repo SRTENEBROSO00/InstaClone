@@ -1,0 +1,32 @@
+.container-status {
+    display: flex;
+    padding: 0 10px;
+    overflow: hidden;
+    overflow-x: scroll;
+    width: 95vw;
+}
+.container-status::-webkit-scrollbar{
+    display: none;
+}
+.container-status .user {
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    object-fit: cover;
+}
+
+.profileUSer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: auto;
+    width: 100px;
+
+}    
+.profileUSer span {
+    padding: 15px 10px;
+    text-align: justify;
+    font-size: 10px;
+}    
+
